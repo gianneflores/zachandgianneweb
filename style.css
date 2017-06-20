@@ -1,0 +1,505 @@
+body{
+   min-width:1000px; /* suppose you want minimun width of 1000px */
+   width: auto !important;  /* Firefox will set width as auto */
+   width:1000px;             /* As IE ignores !important it will set width as 1000px; */
+  overflow: scroll;
+}
+h1{
+  color: black;
+  font-size: 80px;
+  font-family: Quicksand;
+  font-weight: lighter;
+  text-align: center;
+}
+
+h2{
+  color: black;
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: lighter;
+  text-align: center;
+}
+#rockclimbing{
+  position: absolute;
+  top: 247;
+  left: 30;
+  height: auto;
+  width: 340px;
+}
+#apple_video{
+  position: absolute;
+  top: 247;
+  left: 310;
+  height: auto;
+  width: 20%;
+}
+#cat{
+  position: absolute;
+  top: 247;
+  left: 568;
+  height: auto;
+  width: 279px;
+}
+#gators{
+  position: absolute;
+  top: 247;
+  left: 855;
+  height: auto;
+  width: 395px;
+
+}
+#isa{
+  position: absolute;
+  top:585;
+  left: 378;
+  height: auto;
+  width: 255px;
+}
+#sky{
+  position: absolute;
+  top:710;
+  left: 28;
+  height: auto;
+  width: 341px;
+}
+
+#moose{
+  position: absolute;
+  top:585;
+  left: 640;
+  height: auto;
+  width: 257px;
+}
+#morty{
+  position: absolute;
+  top:585;
+  left: 905;
+  height: 268;
+  width:350px;
+
+}
+#couch{
+  position: absolute;
+  top:780;
+  left: 378;
+  height: auto;
+  width: 253px;
+}
+#bighead_video{
+  position: absolute;
+  top: 925;
+  left: 28;
+  height: auto;
+}
+#bbq_video{
+  position: absolute;
+  top: 860;
+  left: 992;
+  height: auto;
+}
+#old{
+  position: absolute;
+  top:860;
+  left: 640;
+  height: auto;
+  width: 420px;
+}
+#high{
+  position: absolute;
+  top:1100;
+  left: 640;
+  height: auto;
+  width: 220px;
+}
+#festivalBay{
+  position: absolute;
+  top:1210;
+  left: 28;
+  height: auto;
+  width: 341px;
+}
+#half{
+  position: absolute;
+  top:1230;
+  left: 377;
+  height: 170;
+  width: 253px;
+}
+#bruno{
+  position: absolute;
+  top:1100;
+  left: 868;
+  height: auto;
+  width: 192px;
+}
+#colorrun{
+  position: absolute;
+  top:1408;
+  left: 377;
+  height: auto;
+  width: 481px;
+}
+#holinose{
+  position: absolute;
+  top:1200;
+  left: 1068;
+  height: auto;
+  width: 187;
+}
+#churro{
+  position: absolute;
+  top:1250;
+  left: 868;
+  height: auto;
+  width: 192px;
+}
+#football{
+  position: absolute;
+  top:1310;
+  left: 1068;
+  height: auto;
+  width: 187;
+}
+#drums{
+  position: absolute;
+  top:1640;
+  left: 28;
+  height: auto;
+}
+#beach{
+  position: absolute;
+  top:1997;
+  left: 377;
+  height: auto;
+  width: 240;
+}
+#spring{
+  position: absolute;
+  top:2435;
+  left: 377;
+  height: auto;
+  width: 650;
+}
+#beach2{
+  position: absolute;
+  top:1600;
+  left: 868;
+  height: auto;
+  width: 387;
+}
+#car{
+  position: absolute;
+  top:1830;
+  left: 868;
+  height: auto;
+  width: 209;
+}
+#tourist{
+  position: absolute;
+  top:1830;
+  left: 1085;
+  height: auto;
+  width: 173;
+}
+#chomp{
+  position: absolute;
+  top:2250;
+  left: 28;
+  height: auto;
+  width: 343;
+}
+#selfie{
+  position: absolute;
+  top:2515;
+  left: 28;
+  height: auto;
+  width: 343;
+}
+#class{
+  position: absolute;
+  top:1997;
+  left: 625;
+  height: auto;
+  width: 236;
+}
+#eye{
+  position: absolute;
+  top:2165;
+  left: 625;
+  height: auto;
+  width: 236;
+}
+#aquatica{
+  position: absolute;
+  top:2000;
+  left: 868;
+  height: auto;
+  width: 209;
+}
+#pano{
+  position: absolute;
+  top:2265;
+  left: 868;
+  height: 160;
+  width: 400;
+}
+#aquarium{
+  position: absolute;
+  top:2000;
+  left: 1085;
+  height: 250;
+  width: 173;
+}
+#tie{
+  position: absolute;
+  top:2435;
+  left: 1035;
+  height: auto;
+  width: 230;
+}
+#colorful{
+  position: absolute;
+  top:2620;
+  left: 1035;
+  height: auto;
+  width: 230;
+}
+#prom{
+  position: absolute;
+  top:2800;
+  left: 798;
+  height: auto;
+  width: 470;
+}
+#future{
+  position: absolute;
+  top:2800;
+  left: 377;
+  height: auto;
+}
+#brunohills{
+  position: absolute;
+  top:3040;
+  left: 377;
+  width: 415;
+  height: auto;
+}
+#bridge{
+  position: absolute;
+  top:3120;
+  left: 798;
+  width: 470;
+  height: auto;
+}
+#survivor{
+  position: absolute;
+  top:2870;
+  left: 28;
+  height: auto;
+  width: 343;
+}
+#model{
+  position: absolute;
+  top:3270;
+  left: 28;
+  width: 415;
+  height: auto;
+}
+#movie{
+  position: absolute;
+  top:3270;
+  left: 450;
+  width:340;
+  height: auto;
+}
+#lake{
+  position: absolute;
+  top:3580;
+  left: 28;
+  width: 415;
+  height: 320;
+}
+#vday{
+  position: absolute;
+  top:3480;
+  left: 1033;
+  width: 235;
+  height: auto;
+}
+#mirror{
+  position: absolute;
+  top:3480;
+  left: 798;
+  width: 227;
+  height: auto;
+}
+#abs{
+  position: absolute;
+  top:3908;
+  left: 28;
+  width: 227;
+  height: auto;
+}
+#nuggest{
+  position: absolute;
+  top:3700;
+  left:670;
+}
+#park{
+  position: absolute;
+  top:3700;
+  left: 450;
+  width:215;
+  height: auto;
+}
+
+#calendar{
+  position: absolute;
+  top:3823;
+  left: 450;
+  width:215;
+  height: auto;
+}
+#prom2{
+  position: absolute;
+  top:3908;
+  left:865;
+  width:403;
+  height:auto;
+}
+#party{
+  position: absolute;
+  top:4515;
+  left: 263;
+  width:298;
+  height: auto;
+}
+#graduation{
+  position: absolute;
+  top:5015;
+  left: 566;
+  width:290;
+  height: auto;
+}
+#waiting{
+  position: absolute;
+  top:5390;
+  left: 566;
+}
+#class2{
+  position: absolute;
+  top:4695;
+  left:865;
+  width:403;
+  height:auto;
+}
+#tree{
+  position: absolute;
+  top:3908;
+  left: 263;
+  width:596;
+  height: auto;
+}
+#warpaint{
+  position: absolute;
+  top:4455;
+  left:865;
+  width:403;
+  height:auto;
+}
+#hoco{
+  position: absolute;
+  top:4910;
+  left: 566;
+  width:701;
+  height: auto;
+  z-index: 3000;
+}
+#merp{
+  position: absolute;
+  top:4693;
+  left: 28;
+  width: 530;
+  height: auto;
+}
+#hills{
+  position: absolute;
+  top:5105;
+  left: 28;
+  width: 530;
+  height: auto;
+}
+#graduation{
+  position: absolute;
+  top:5390;
+  left: 870;
+  width:395;
+  height: auto;
+}
+#fair{
+  position: absolute;
+  top:5515;
+  left: 28;
+  width: 530;
+  height: auto;
+}
+#food{
+  position: absolute;
+  top:4323;
+  left: 28;
+  width: 227;
+  height: auto;
+}
+#orange{
+  position: absolute;
+  top:5825;
+  left: 28;
+  width: 530;
+  height: auto;
+}
+#dinner{
+  position: absolute;
+  top:5825;
+  left: 297;
+  width: 260;
+  height: auto;
+}
+#kiss{
+  position: absolute;
+  top:5928;
+  left: 930;
+  width: 350;
+}
+#math{
+  position: absolute;
+  top:5928;
+  left: 566;
+  width: 350;
+}
+#dog{
+  position: absolute;
+  top:6170;
+  left: 566;
+  width: 350;
+}
+#ferris{
+  position: absolute;
+  top:4515;
+  left: 566;
+  width:290;
+  height: auto;
+}
+#line{
+  position: absolute;
+  top:4901;
+  left: 566;
+  width:295;
+  height: auto;
+  z-index: 3000;
+}
+#music{
+  position: absolute;
+  top:6270;
+  left: 566;
+  width: 350;
+}
